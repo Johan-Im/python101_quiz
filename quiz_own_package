@@ -1,0 +1,13 @@
+'''
+Make a signature module.
+
+Rule : Module file name = byme.py
+
+Ex)
+import byme
+byme.sign()
+
+Output Ex)
+This program has been made by 'Your Name'
+email address: xxxx@xxxx.com
+'''
